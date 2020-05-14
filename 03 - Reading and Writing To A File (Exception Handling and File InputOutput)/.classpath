@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Exception Handling 1"/>
+	<classpathentry kind="src" path="File IO 1 (Day2)"/>
+	<classpathentry kind="src" path="File IO 2 (Day 3)"/>
+	<classpathentry kind="src" path="FIle IO 3 (Day 3)"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
